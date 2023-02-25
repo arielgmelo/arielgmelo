@@ -1,20 +1,16 @@
 <h3>Olá, me chamo Ariel Melo! 👋</h3>
 
 <p> 
-  Tenho 25 anos e trabalho com <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  Tenho 25 anos e trabalho com <strong>Design Gráfico e Animações 2D (motion)</strong> há cerca de 5 anos.<br>
+  Atualmente estou estudando HTML e CSS e há um mês.
 </p>
 
 <p>
-  🦄 Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
+  🦄 Linguagens: <strong>HTML & CSS</strong>.
 </p>
 
 <p>
-  💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
-</p>
-
-<p>
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 Aqui alguns links de contato: ⤵️
 </p>
 
 <p>
