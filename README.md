@@ -3,7 +3,7 @@
 <h3 align="left">Olá, me chamo Ariel Melo! 👋</h3>
 
 <p align="left"> 
-  Tenho 25 anos e trabalho com <strong>Design Gráfico e Animações 2D (motion)</strong>.<br>
+  Tenho 25 anos e trabalho com <strong>Design Gráfico e Animações 2D (Motion)</strong>.<br>
   Atualmente estou estudando HTML e CSS e há um mês.
 </p>
 
