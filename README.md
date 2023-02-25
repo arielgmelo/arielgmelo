@@ -12,5 +12,5 @@
 </p>
 
 <p>
-  <a href="https://arielgmelo.github.io" alt="">Aqui estão meus principais links</a>
+  <a href="https://arielgmelo.github.io" alt="Links Principais" style="color: #dd6387;">Aqui estão meus principais links</a>
 </p>
