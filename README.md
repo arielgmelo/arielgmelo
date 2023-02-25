@@ -10,21 +10,3 @@
 <p align="left">
   🦄 Linguagens: <strong>HTML & CSS</strong>.
 </p>
-
-<p align="left">
-  Aqui alguns links de contato:
-</p>
-
-<p align="left">
-  <a href="https://www.instagram.com/arielgmelo" alt="Instagram" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  
-  <a href="https://www.twitter.com/arielgmelo" alt="Twitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  
-  <a href="https://www.twitch.tv/arielgmelo" alt="Twitch" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
-  </a>
-</p>
