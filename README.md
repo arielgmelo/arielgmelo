@@ -1,19 +1,19 @@
-<h3>Olá, me chamo Ariel Melo! 👋</h3>
+<h3 align="left">Olá, me chamo Ariel Melo! 👋</h3>
 
-<p> 
+<p align="left"> 
   Tenho 25 anos e trabalho com <strong>Design Gráfico e Animações 2D (motion)</strong> há cerca de 5 anos.<br>
   Atualmente estou estudando HTML e CSS e há um mês.
 </p>
 
-<p>
+<p align="left">
   🦄 Linguagens: <strong>HTML & CSS</strong>.
 </p>
 
-<p>
+<p align="left">
   💌 Aqui alguns links de contato: ⤵️
 </p>
 
-<p>
+<p align="left">
   <a href="#" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 </p>
