@@ -1,4 +1,4 @@
-Hi, Ariel Melo here 👋
+<h3>Hi, Ariel Melo here 👋</h3>
 
 - 🔭 I’m currently working on Graphic Design and Motion Graphics.
 - 🌱 I’m currently learning HTML, CSS & 3D.
