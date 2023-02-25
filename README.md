@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=arielgmelo&show_icons=truecache_seconds=2300">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=arielgmelo&theme=dracula&show_icons=truecache_seconds=2300">
 
 <h3 align="left">Olá, me chamo Ariel Melo! 👋</h3>
 
