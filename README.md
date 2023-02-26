@@ -1,7 +1,5 @@
 <h2>Olá, Ariel aqui! 👋</h2>
 
-<img src="https://komarev.com/ghpvc/?username=arielgmelo&label=Visitas&color=9488AE&style=flat-square" alt="arielgmelo" />
-
 <ul>
   <li>🦄 Me chamo Ariel Melo.</li>
   <li>🌈 Tenho 25 anos.</li>
@@ -44,7 +42,8 @@
   <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
   <a href="https://www.twitch.tv/arielgmelo" alt="Twitch">
   <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=arielgmelo&label=Visitas&color=9488AE&style=for-the-badge" alt="arielgmelo" />
 </div>
 
 <h3>🎧 Ouvindo agora:</h3>
-<img height="120em" src="https://spotify-github-profile.vercel.app/api/view?uid=a24wdiyu90y2tk6m686oe6778&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=b058df&bar_color_cover=false"/>
+<img  height="120em" src="https://spotify-github-profile.vercel.app/api/view?uid=a24wdiyu90y2tk6m686oe6778&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=b058df&bar_color_cover=false"/>
