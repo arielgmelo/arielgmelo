@@ -7,7 +7,7 @@
   🌈 Tenho 25 anos.</br>
   🎨 Trabalho com Design Gráfico e Animações 2D (Motion) desde 2018.</br>
   🖥 Atualmente trabalhando com foco em criação de Stream Overlays.</br>
-  ❤ Meus pronomes são Ela/Dela.
+  ❤ Meus pronomes são: Ela/Dela.
 </p>
 
 <div align="center">
