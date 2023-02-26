@@ -31,9 +31,9 @@
 
   <p>Pretendo estudar:</p>
   <!-- JavaScript -->
-  <img src="https://img.shields.io/badge/-JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/-JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F0DB4F"/>
   <!-- Python -->
-  <img src="https://img.shields.io/badge/-Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/-Python-3673A5?style=for-the-badge&logo=python&logoColor=ffd342"/>
 </div>
 
 <h3 align="center">Meus principais links: <a href="https://arielgmelo.github.io">arielgmelo.github.io</a></h3>
