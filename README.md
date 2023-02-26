@@ -26,10 +26,16 @@ Meus principais links: [arielgmelo.github.io](https://arielgmelo.github.io)
 
 Redes Sociais:
 
-![https://www.behance.net/arielgmelo](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
-![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)
+<p>
+  <a href="#" alt="Behance"> 
+  <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white&link=https://www.behance.net/arielgmelo"/></a>
+  <a href="#" alt="Instagram"> 
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=www.behance.net/arielgmelo"/></a>
+  <a href="#" alt="Twitter"> 
+  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=behance.net/arielgmelo"/></a>
+  <a href="#" alt="Twitch">
+  <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white"/></a>
+</p>
 
 Ouvindo agora:
 
