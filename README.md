@@ -17,7 +17,7 @@
   </a>
 </div>
 
-<h3 align="center">📚 Linguagens</h3>
+<h3 align="center">📚 Linguagens:</h3>
 <div align="center">
   <p>Estudando:</p>
   <!-- HTML -->
