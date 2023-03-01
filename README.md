@@ -1,6 +1,6 @@
 ## Olá, Ariel aqui. Sejam bem vindes ao meu espaço!
 
-<img align="right" height="150" src="https://github.com/arielgmelo/arielgmelo/blob/main/profile.png?width=676&height=676"/>
+<img align="right" height="140" src="https://github.com/arielgmelo/arielgmelo/blob/main/profile.png?width=676&height=676"/>
 
 <ul align="left">
   <li>🦄 Me chamo Ariel Melo.</li>
