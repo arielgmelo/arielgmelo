@@ -6,7 +6,7 @@
   <li>🦄 Me chamo Ariel Melo.</li>
   <li>🌈 Tenho 25 anos.</li>
   <li>🎨 Trabalho com Design Gráfico e Animações 2D (Motion) desde 2018.</li>
-  <li>🖥 Atualmente trabalhando com foco em criação de Stream Overlays.</li>
+  <li>💻 Atualmente trabalhando com foco em criação de Stream Overlays.</li>
   <li>❤ Sou trans e meus pronomes são: Ela/Dela.</li>
 </ul>
 
