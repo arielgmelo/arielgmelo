@@ -16,9 +16,7 @@
   <img src="https://img.shields.io/badge/-Illustrator-330000?style=for-the-badge&logo=adobe%20illustrator&logoColor=FF9A00"/>
   <img src="https://img.shields.io/badge/-After%20Effects-00005B?style=for-the-badge&logo=adobe%20after%20effects&logoColor=9999FF"/>
   <img src="https://img.shields.io/badge/-Premiere%20Pro-00005B?style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=9999FF"/>
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/-Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/-VS%20Code-1F9CF0?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </div>
 
 <h3>Linguagens do meu interesse:</h3>
