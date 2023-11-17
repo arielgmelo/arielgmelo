@@ -3,8 +3,8 @@
 <h3>About me:</h3>
 <ul>
   <li>🦄 I'm Ariel Melo.</li>
-  <li>🌈 I'm 25 years old.</li>
-  <li>🎨 Working with Graphic Design and 2D Animation (Motion Graphics) since 2018 e Animações 2D (Motion) desde 2018.</li>
+  <li>🌈 I'm 26 years old.</li>
+  <li>🎨 Freelancer Graphic & Motion Designer.</li>
   <li>🎹 Aspiring Music Producer.</li>
 </ul>
 
