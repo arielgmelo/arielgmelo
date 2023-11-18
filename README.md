@@ -5,7 +5,7 @@
   <li>🦄 I'm Ariel Melo.</li>
   <li>🌈 I'm 26 years old.</li>
   <li>🎨 Freelancer Graphic & Motion Designer.</li>
-  <li>🎹 Aspiring Music Producer.</li>
+  <li>🖥 Programmer beginner.</li>
 </ul>
 
 <div>
