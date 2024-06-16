@@ -6,7 +6,6 @@
   <li>🌈 I'm 26 years old.</li>
   <li>📍 Based in Brazil.</li>
   <li>🎨 Motion Designer & 3D Artist.</li>
-  <li>🖥 Programmer beginner.</li>
 </ul>
 
 <h3>Social Media Links:</h3>
