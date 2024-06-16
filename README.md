@@ -1,21 +1,13 @@
-## Hello! Welcome to my space!
+## Hii! Welcome to my space! 🥰
 
 <h3>About me:</h3>
 <ul>
   <li>🦄 I'm Ariel Melo.</li>
   <li>🌈 I'm 26 years old.</li>
-  <li>🎨 Freelancer Graphic & Motion Designer.</li>
+  <li>📍 Based in Brazil.</li>
+  <li>🎨 Motion Designer & 3D Artist.</li>
   <li>🖥 Programmer beginner.</li>
 </ul>
-
-<div>
-  <h3>Tools I Use:</h3>
-  <img src="https://img.shields.io/badge/-Photoshop-001E36?style=for-the-badge&logo=adobe%20photoshop&logoColor=31A8FF"/>
-  <img src="https://img.shields.io/badge/-Illustrator-330000?style=for-the-badge&logo=adobe%20illustrator&logoColor=FF9A00"/>
-  <img src="https://img.shields.io/badge/-After%20Effects-00005B?style=for-the-badge&logo=adobe%20after%20effects&logoColor=9999FF"/>
-  <img src="https://img.shields.io/badge/-Premiere%20Pro-00005B?style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=9999FF"/>
-  <img src="https://img.shields.io/badge/-Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=FFFFFF"/>
-</div>
 
 <h3>Social Media Links:</h3>
 <div>
