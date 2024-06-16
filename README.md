@@ -15,7 +15,7 @@
   <a href="https://www.instagram.com/arielgmelo" alt="Instagram"> 
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
   <a href="https://www.x.com/arielgmelo" alt="X"> 
-  <img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=X&logoColor=white"/></a>
   <a href="https://www.twitch.tv/arielgmelo" alt="Twitch">
   <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white"/></a>
 </div>
