@@ -1,4 +1,4 @@
-## Hii! Welcome to my space! 🥰
+## Hii! 🥰
 
 <h3>About me:</h3>
 <ul>
