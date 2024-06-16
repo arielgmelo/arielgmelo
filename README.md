@@ -4,7 +4,7 @@
 <ul>
   <li>🦄 I'm Ariel Melo.</li>
   <li>🌈 I'm 26 years old.</li>
-  <li>📍 Based in Brazil.</li>
+  <li>🏡 Based in Brazil.</li>
   <li>🎨 Motion Designer & 3D Artist.</li>
 </ul>
 
