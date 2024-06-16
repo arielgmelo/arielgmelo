@@ -8,7 +8,7 @@
   <li>🎨 Motion Designer & 3D Artist.</li>
 </ul>
 
-<h3>Social Media Links:</h3>
+<h3>Find me at:</h3>
 <div>
   <!-- BEHANCE -->
   <a href="https://www.behance.net/arielgmelo" alt="Behance"> 
@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white"/></a>
 </div>
 
-<h3>listening now:</h3>
+<h3>Listening now:</h3>
 <div>
   <img height="120em" src="https://spotify-github-profile.vercel.app/api/view?uid=a24wdiyu90y2tk6m686oe6778&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=bcb2d5&bar_color_cover=true"/>
 </div>
