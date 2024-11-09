@@ -16,9 +16,9 @@
   <!-- BLUESKY -->
   <a href="https://bsky.app/profile/arielgmelo.bsky.social" alt="Bluesky"> 
   <img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge"/></a>
-  <!-- INSTAGRAM -->
+  <!-- INSTAGRAM
   <a href="https://www.instagram.com/arielgmelo" alt="Instagram"> 
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a> -->
   <!-- TWITCH -->
   <a href="https://www.twitch.tv/arielgmelo" alt="Twitch">
   <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white"/></a>
