@@ -13,6 +13,9 @@
   <!-- BEHANCE -->
   <a href="https://www.behance.net/arielgmelo" alt="Behance"> 
   <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white"/></a>
+  <!-- BLUESKY -->
+  <a href="https://bsky.app/profile/arielgmelo.bsky.social" alt="Bluesky"> 
+  <img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge"/></a>
   <!-- INSTAGRAM -->
   <a href="https://www.instagram.com/arielgmelo" alt="Instagram"> 
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
